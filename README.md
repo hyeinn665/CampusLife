@@ -37,5 +37,7 @@
 <img src="https://user-images.githubusercontent.com/96910427/165787856-9112e623-42dc-41f1-b25d-b1668120f09f.png" width="800" height="1000" style="border: 1px solid #ccc;">
 <img src="https://user-images.githubusercontent.com/96910427/165790079-4cedb11f-7cc0-40d5-8968-07c89d712bc3.png" width="800" height="1000">
 <img src="https://user-images.githubusercontent.com/96910427/165790991-b6fca963-e450-458e-b51c-69debaec9f2f.png" width="800" height="1500" style="border: 1px solid #ccc;">
-
 <img src="https://user-images.githubusercontent.com/96910427/165793290-8c81bbaa-a421-4383-9cae-657c7812610d.gif">
+<br><br>
+## 👀 ERD
+<img src="https://user-images.githubusercontent.com/96910427/166250744-98c85951-3997-4c8d-8bc3-f15439ac30fe.png">
